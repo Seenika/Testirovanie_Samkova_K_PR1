@@ -10,7 +10,7 @@ namespace Testirovanie_Samkova_K_PR1
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! ");
         }
     }
 }
