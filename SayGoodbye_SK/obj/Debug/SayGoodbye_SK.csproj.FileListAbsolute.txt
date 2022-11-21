@@ -1,0 +1,8 @@
+D:\vs\SayGoodbye_SK\bin\Debug\SayGoodbye_SK.exe.config
+D:\vs\SayGoodbye_SK\bin\Debug\SayGoodbye_SK.exe
+D:\vs\SayGoodbye_SK\bin\Debug\SayGoodbye_SK.pdb
+D:\vs\SayGoodbye_SK\obj\Debug\SayGoodbye_SK.csproj.AssemblyReference.cache
+D:\vs\SayGoodbye_SK\obj\Debug\SayGoodbye_SK.csproj.SuggestedBindingRedirects.cache
+D:\vs\SayGoodbye_SK\obj\Debug\SayGoodbye_SK.csproj.CoreCompileInputs.cache
+D:\vs\SayGoodbye_SK\obj\Debug\SayGoodbye_SK.exe
+D:\vs\SayGoodbye_SK\obj\Debug\SayGoodbye_SK.pdb
